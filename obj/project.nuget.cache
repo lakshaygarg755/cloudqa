@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IbIbaaTfQFY=",
+  "success": true,
+  "projectFilePath": "/Users/lakshaygarg/Desktop/SeleniumTest/SeleniumTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/lakshaygarg/.nuget/packages/selenium.support/4.31.0/selenium.support.4.31.0.nupkg.sha512",
+    "/Users/lakshaygarg/.nuget/packages/selenium.webdriver/4.31.0/selenium.webdriver.4.31.0.nupkg.sha512",
+    "/Users/lakshaygarg/.nuget/packages/selenium.webdriver.chromedriver/135.0.7049.8400/selenium.webdriver.chromedriver.135.0.7049.8400.nupkg.sha512"
+  ],
+  "logs": []
+}
